@@ -3,7 +3,7 @@
   <h1>
     Hi there, I'm Subasri 👋
   </h1>
-  <h3>A passionate [Your Title, e.g., Full-Stack Developer, Data Scientist, Student] from [Your City/Country]</h3>
+  <h3>A passionate [ Full-Stack Developer, Data Scientist, Student] from [Salem/India]</h3>
 </div>
 
 ---
@@ -15,8 +15,8 @@
 - 👯 I’m looking to collaborate on **[Types of Projects, e.g., Open Source Web Apps]**
 - 🤔 I’m looking for help with **[A Topic You Need Help With]**
 - 💬 Ask me about **[Topics You Are Confident In, e.g., React, Python, UI/UX Design]**
-- 📫 How to reach me: **[your.email@example.com]**
-- 😄 Pronouns: **[She/Her, He/Him, etc.]**
+- 📫 How to reach me: **[subasri04006@gmail.com]**
+- 😄 Pronouns: **[She/Her]**
 - ⚡ Fun fact: **[A Fun Fact About Yourself]**
 
 ---
@@ -56,7 +56,7 @@
 ### 🤝 Let's Connect!
 
 <p align="center">
-  <a href="[YOUR_LINKEDIN_URL]">
+  <a href="[https://www.linkedin.com/in/subasri006]">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="[YOUR_TWITTER/X_URL]">
@@ -65,7 +65,7 @@
   <a href="[YOUR_PORTFOLIO_URL]">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=hyper&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:[your.email@example.com]">
+  <a href="mailto:[subasri040066@gmail.com]">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
