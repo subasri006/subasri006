@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Name of a Project You're Building]**
+
 - 🌱 I’m currently learning **[A Technology or Concept You're Learning]**
 - 👯 I’m looking to collaborate on **[Types of Projects, e.g., Open Source Web Apps]**
 - 🤔 I’m looking for help with **[A Topic You Need Help With]**
