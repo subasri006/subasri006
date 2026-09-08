@@ -1,15 +1,21 @@
 <div id="header" align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Subasri+M+%F0%9F%91%8B;AI+%26+Data+Science+Student;Full-Stack+Developer" alt="Typing SVG" />
-  <h3>A passionate Full-Stack Developer, Data Science enthusiast & Student from Salem, India</h3>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Subasri+M+%F0%9F%91%8B;AI+%26+Data+Science+Student;Full-Stack+Developer;Data+Science+Enthusiast" 
+  alt="Typing SVG" />
+
+  <h3>
+    A passionate Full-Stack Developer, Data Science enthusiast & Student from Salem, India
+  </h3>
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🌱 I'm currently learning **B.Tech - Artificial Intelligence & Data Science**
+- 🌱 I'm currently pursuing **B.Tech in Artificial Intelligence & Data Science**
 - 👯 I'm looking to collaborate on **AI-driven web apps & data-focused projects**
-- 🤔 I'm looking for help with **scaling and deploying full-stack applications**
+- 🤔 I'm interested in **scaling and deploying full-stack applications**
 - 💬 Ask me about **Python, SQL, Power BI, React, or FastAPI**
 - 📫 How to reach me: **subasri04006@gmail.com**
 - 😄 Pronouns: **She/Her**
@@ -17,61 +23,197 @@
 
 ---
 
-### 🛠️ My Skills & Tools
+## 🛠️ My Skills & Tools
+
+### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
-  <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="sql"/>
-  <img src="https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="powerbi"/>
-  <img src="https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
-  <br/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/>
-  <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi"/>
-  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-  <br/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vs code"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+
+</p>
+
+### 🤖 AI / Data Science
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-102A43?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+
+</p>
+
+### 🗄️ Database & Tools
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+
 </p>
 
 ---
 
-### 🎓 Education Journey
+## 🎓 Education Journey
 
-\`\`\`
-2027 ─● B.Tech, Artificial Intelligence & Data Science
-      │  Shree Venkateshwara Hi-Tech Engineering College, Gobichettipalayam
-      │  CGPA: 8.90/10 (Honours)
-      │
-2023 ─● Higher Secondary Certificate — Mathematical Sciences
-         Govt Girls Hr. Sec. School, Idaippadi, Salem
-         Percentage: 75/100
-\`\`\`
+| 🎓 Year | 📚 Education | 🏫 Institution | 📊 Score |
+|:---:|---|---|:---:|
+| **2023 – 2027** | **B.Tech – Artificial Intelligence & Data Science** | Shree Venkateshwara Hi-Tech Engineering College, Gobichettipalayam | **CGPA: 8.90/10** |
+| **2023** | **Higher Secondary Certificate – Mathematical Sciences** | Govt. Girls Hr. Sec. School, Idaippadi, Salem | **75%** |
 
 ---
 
-### 📊 My GitHub Stats
+## 🚀 Projects
+
+### 🌱 Plant Disease Analysis
+
+> An AI/ML-based project designed to analyze and classify plant diseases using machine learning techniques.
+
+**Tech Stack:** Python • Machine Learning • Pandas • NumPy
+
+---
+
+### 🚦 AI-Based Smart Traffic Accident Risk Prediction
+
+> An intelligent system designed to predict traffic accident risks and support proactive accident prevention using AI and data-driven techniques.
+
+**Tech Stack:** Python • Machine Learning • Data Analysis • AI
+
+---
+
+### 🎓 Smart Student Management System
+
+> A full-stack application designed to manage student information, academic records and administrative activities efficiently.
+
+**Tech Stack:** Python • FastAPI • MongoDB • HTML • CSS • JavaScript
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subasri006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Subasri's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subasri006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=subasri006&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"
+    alt="Subasri's GitHub Stats"
+    height="180"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=subasri006&layout=compact&theme=default&hide_border=true&langs_count=8"
+    alt="Top Languages"
+    height="180"
+  />
+
+</p>
+
+<p align="center">
+
+  <img 
+    src="https://streak-stats.demolab.com?user=subasri006&theme=default&hide_border=true"
+    alt="GitHub Streak"
+  />
+
 </p>
 
 ---
 
-### 🤝 Let's Connect!
+## 📈 GitHub Activity
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/subasri006" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=subasri006&bg_color=ffffff&color=2563EB&line=2563EB&point=111827&area=true&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=subasri006&theme=flat&no-frame=true&no-bg=true&margin-w=10"
+    alt="GitHub Trophies"
+  />
+
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/subasri006">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
-  <a href="https://github.com/subasri006" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+  <a href="https://github.com/subasri006">
+    <img 
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
+
   <a href="mailto:subasri04006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img 
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
   </a>
+
 </p>
+
+---
+
+## 💡 What I'm Currently Working On
+
+```text
+🤖 Artificial Intelligence
+📊 Data Analytics & Visualization
+🌐 Full-Stack Web Development
+🧠 Machine Learning
+🚦 Smart Traffic Safety Systems
+🚀 Building Real-World AI Applications
