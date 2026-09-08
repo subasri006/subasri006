@@ -87,6 +87,7 @@
 |:---:|---|---|:---:|
 | **2023 – 2027** | **B.Tech – Artificial Intelligence & Data Science** | Shree Venkateshwara Hi-Tech Engineering College, Gobichettipalayam | **CGPA: 8.90/10** |
 | **2023** | **Higher Secondary Certificate – Mathematical Sciences** | Govt. Girls Hr. Sec. School, Idaippadi, Salem | **75%** |
+
 ---
 
 ## 🤝 Let's Connect
@@ -120,48 +121,29 @@
 
 ## 💡 What I'm Currently Working On
 
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=🤖+Building+AI+Applications;📊+Learning+Advanced+Data+Analytics;🌐+Developing+Full-Stack+Projects;🧠+Exploring+Machine+Learning;🚀+Turning+Ideas+Into+Real+Projects" alt="Currently Working On"/>
-
-</p>
-
+```text
+🤖 Artificial Intelligence
+📊 Data Analytics & Visualization
+🌐 Full-Stack Web Development
+🧠 Machine Learning
+🚦 Smart Traffic Safety Systems
+🚀 Building Real-World AI Applications
+```
 ---
-
 ## ✨ Profile Visitors
-
 <p align="center">
 
-  <img
-    src="https://komarev.com/ghpvc/?username=subasri006&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge"
-    alt="Profile Views"
-  />
+<img src="https://komarev.com/ghpvc/?username=subasri006&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views" />
 
-</p>
+</p> <br/> <p align="center">
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+%F0%9F%92%99;Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing+%F0%9F%9A%80;Let's+Build+Something+Amazing+Together!+%E2%9C%A8" alt="Animated Footer Message" />
 
-<p align="center">
+</p> <br/> <p align="center">
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+%F0%9F%92%99;Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing+%F0%9F%9A%80;Let's+Build+Something+Amazing+Together!+%E2%9C%A8"
-    alt="Animated Footer Message"
-  />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=100&section=footer" alt="Animated Footer" />
 
-</p>
-
-<br/>
-
-<p align="center">
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=100&section=footer"
-    alt="Animated Footer"
-  />
-
-</p>
-
-<h3 align="center">
+</p> <h3 align="center">
 
 💙 Thanks for visiting my profile!
 
@@ -169,14 +151,4 @@
 
 ⭐ Explore my repositories • 🤝 Connect with me • 🚀 Let's build together
 
-</h3>
-
-<p align="center">
-
-<sub>
-Made with 💙 by <b>Subasri M</b>
-</sub>
-
-</p>
-
----
+</h3> <p align="center"> <sub> Made with 💙 by <b>Subasri M</b> </sub> </p>
