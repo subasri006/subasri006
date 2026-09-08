@@ -131,11 +131,6 @@
 ```
 ---
 ## ✨ Profile Visitors
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=subasri006&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views" />
-
-</p> <br/> <p align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+%F0%9F%92%99;Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing+%F0%9F%9A%80;Let's+Build+Something+Amazing+Together!+%E2%9C%A8" alt="Animated Footer Message" />
 
