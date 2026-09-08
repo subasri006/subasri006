@@ -49,8 +49,6 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 
 </p>
@@ -60,10 +58,6 @@
 <p align="left">
 
 <img src="https://img.shields.io/badge/Machine%20Learning-102A43?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 
@@ -79,13 +73,9 @@
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 
 <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 
 </p>
 
@@ -97,92 +87,6 @@
 |:---:|---|---|:---:|
 | **2023 – 2027** | **B.Tech – Artificial Intelligence & Data Science** | Shree Venkateshwara Hi-Tech Engineering College, Gobichettipalayam | **CGPA: 8.90/10** |
 | **2023** | **Higher Secondary Certificate – Mathematical Sciences** | Govt. Girls Hr. Sec. School, Idaippadi, Salem | **75%** |
-
----
-
-## 🚀 Featured Projects
-
-### 🌱 Plant Disease Analysis
-
-> An AI/ML-based project designed to analyze and classify plant diseases using machine learning techniques.
-
-**Tech Stack:** Python • Machine Learning • Pandas • NumPy
-
----
-
-### 🚦 AI-Based Smart Traffic Accident Risk Prediction
-
-> An intelligent system designed to predict traffic accident risks and support proactive accident prevention using AI and data-driven techniques.
-
-**Tech Stack:** Python • Machine Learning • Data Analysis • AI
-
----
-
-### 🎓 Smart Student Management System
-
-> A full-stack application designed to manage student information, academic records and administrative activities efficiently.
-
-**Tech Stack:** Python • FastAPI • MongoDB • HTML • CSS • JavaScript
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=subasri006&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"
-    alt="Subasri's GitHub Stats"
-    height="180"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=subasri006&layout=compact&theme=default&hide_border=true&langs_count=8"
-    alt="Top Languages"
-    height="180"
-  />
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-  <img
-    src="https://streak-stats.demolab.com?user=subasri006&theme=default&hide_border=true"
-    alt="GitHub Streak"
-  />
-
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=subasri006&bg_color=ffffff&color=2563EB&line=2563EB&point=111827&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=subasri006&theme=flat&no-frame=true&no-bg=true&margin-w=10"
-    alt="GitHub Trophies"
-  />
-
-</p>
-
 ---
 
 ## 🤝 Let's Connect
